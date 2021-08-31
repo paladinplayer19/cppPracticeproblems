@@ -5,7 +5,11 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "Programming is hard but you can learn to make it simple!\n";
+    std::cout << "\n";
+    std::cout << "Get through programming by learning terms 1 by 1\n";
+    std::cout << "\n";
+    std::cout << "Goodjob\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
